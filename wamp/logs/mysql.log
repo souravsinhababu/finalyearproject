@@ -1,0 +1,75 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+220107 12:49:50  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+220107 12:49:50  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+220107 12:49:50  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+220107 12:49:51  InnoDB: Started; log sequence number 0 0
+220107 12:49:51 [Note] wampmysqld: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220514 17:27:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220514 17:27:31  InnoDB: Started; log sequence number 0 60525
+220514 17:27:34 [Note] wampmysqld: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+220515 21:29:15 [Note] wampmysqld: Normal shutdown
+
+220515 21:29:17  InnoDB: Starting shutdown...
+220515 21:29:20  InnoDB: Shutdown completed; log sequence number 0 60525
+220515 21:29:20 [Note] wampmysqld: Shutdown complete
+
+220608 15:57:42  InnoDB: Started; log sequence number 0 60525
+220608 15:57:43 [Note] wampmysqld: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220609 16:50:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220609 16:50:13  InnoDB: Started; log sequence number 0 60969
+220609 16:50:14 [Note] wampmysqld: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220628  8:34:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220628  8:34:44  InnoDB: Started; log sequence number 0 60979
+220628  8:34:45 [Note] wampmysqld: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+220708 11:07:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+220708 11:07:05  InnoDB: Started; log sequence number 0 60989
+220708 11:07:07 [Note] wampmysqld: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+220720 22:39:25 [Note] wampmysqld: Normal shutdown
+
+220720 22:39:31  InnoDB: Starting shutdown...
+220720 22:39:39  InnoDB: Shutdown completed; log sequence number 0 60999
+220720 22:39:39 [Note] wampmysqld: Shutdown complete
+
+220807 20:07:06  InnoDB: Started; log sequence number 0 60999
+220807 20:07:11 [Note] wampmysqld: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
